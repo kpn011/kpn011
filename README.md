@@ -10,8 +10,15 @@
 </div>
 
 ```console
-kpn@mainnet:~$ ls ~/evm-test/ | tr '\n' ' '
-crystal/ go/ rust/ python/ zig/ v/ js/ kotlin/ swift/ sh/ type/ suite/
+                 .-""-.
+                / .--. \      kpn@mainnet
+               | (o)(o) |     ─────────────
+                \  --  /      runtime : go · rust · python · solidity
+              .-"      "-.    chain   : hyperevm · base · solana · sui
+             /  SECURE OG \   shell   : bash (alias c=clear)
+            |  __________  |  editor  : nano & vim
+             \ \  LQD   / /   uptime  : 24/7 onchain
+              '.______.'      motto   : ship first, document later
 kpn@mainnet:~$ ./run_all.sh && echo "12 runtimes, 1 chain — all green ✓"
 ```
 
@@ -32,6 +39,20 @@ kpn@mainnet:~$ ./run_all.sh && echo "12 runtimes, 1 chain — all green ✓"
 
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpn011&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c" />
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kpn011&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kpn011&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kpn011&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kpn011&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kpn011&theme=tokyonight&utcOffset=7" />
+
+### 🌐 operating on
+
+<img src="https://img.shields.io/badge/HyperEVM-999-00ff9c?style=flat-square&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Base-8453-0052FF?style=flat-square&logo=coinbase&logoColor=white" />
+<img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" />
+<img src="https://img.shields.io/badge/Sui-6FBCF0?style=flat-square&logo=sui&logoColor=white" />
+<img src="https://img.shields.io/badge/Canopy-222222?style=flat-square&logo=wireguard&logoColor=00ff9c" />
+
 </div>
 
 ## 🧪 Featured builds
@@ -50,6 +71,9 @@ kpn@mainnet:~$ ./run_all.sh && echo "12 runtimes, 1 chain — all green ✓"
 ```console
 kpn@mainnet:~$ echo $MOTTO
 ship first, document later
+kpn@mainnet:~$ cat now.txt
+→ registered OG @ LiquidLaunch, snake board 3970
+→ running nodes, automating claims, testing curves
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
