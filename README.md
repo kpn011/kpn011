@@ -1,29 +1,36 @@
 <div align="center">
 
-[![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=%24+whoami;kpn011+%E2%80%94+evm+polyglot+%2B+node+runner;%24+uptime;always+online%2C+always+shipping;%24+tail+-f+mainnet.log)](https://github.com/kpn011)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=kpn011&fontSize=70&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=evm%20polyglot%20%C2%B7%20node%20runner%20%C2%B7%20always%20shipping&descAlignY=60&descSize=16" />
 
-<img src="https://komarev.com/ghpvc/?username=kpn011&style=flat-square&color=00ff9c" alt="profile views" />
+[![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=00FF9C&center=true&vCenter=true&width=620&lines=%24+whoami+%3E+kpn011;%24+cat+stack.txt+%3E+go+%7C+rust+%7C+python+%7C+solidity;%24+uptime+%3E+24%2F7+onchain;%24+./ship.sh+%3E+deploying...)](https://github.com/kpn011)
+
+<img src="https://komarev.com/ghpvc/?username=kpn011&style=flat-square&color=00ff9c" alt="views" />
+<img src="https://img.shields.io/github/followers/kpn011?style=flat-square&color=00ff9c&label=followers" alt="followers" />
 
 </div>
 
 ```console
-kpn@mainnet:~$ ls ~/evm-test/ | head
-crystal-evm-test/  golang-evm-test/  js-evm-test/   kotlin-evm-test/
-python-evm-test/   rust-evm-test/    sh-evm-test/   swift-evm-test/
-v-evm-test/        zig-evm-test/     ...            type-evm-test/
-kpn@mainnet:~$ ./run_all.sh
-12 runtimes, 1 chain — all green ✓
-kpn@mainnet:~$ _
+kpn@mainnet:~$ ls ~/evm-test/ | tr '\n' ' '
+crystal/ go/ rust/ python/ zig/ v/ js/ kotlin/ swift/ sh/ type/ suite/
+kpn@mainnet:~$ ./run_all.sh && echo "12 runtimes, 1 chain — all green ✓"
 ```
 
 <div align="center">
 
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![EVM](https://img.shields.io/badge/-EVM_compatible-3C3C3D?style=flat-square&logo=ethereum&logoColor=62D9E3)
+### ⚡ stack
+
+<img src="https://skillicons.dev/icons?i=go,rust,py,solidity,ts,linux,docker,git&theme=dark" />
+
+### 📊 pulse
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kpn011&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=00ff9c&title_color=00ff9c" />
+<img height="165" src="https://streak-stats.demolab.com?user=kpn011&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kpn011&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=kpn011&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" />
+
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpn011&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c" />
 
 </div>
 
@@ -31,17 +38,12 @@ kpn@mainnet:~$ _
 
 | Repo | Apa isinya |
 | ---- | ---------- |
-| [`*-evm-test`](https://github.com/kpn011?tab=repositories&q=evm-test) | EVM yang sama ditulis di **12+ bahasa** (Go, Rust, Python, Zig, V, Crystal, Swift, Kotlin, JS, sh, …) — lab perbandingan runtime |
+| [`*-evm-test`](https://github.com/kpn011?tab=repositories&q=evm-test) | EVM yang sama ditulis di **12+ bahasa** — lab perbandingan runtime |
 | [`canopy`](https://github.com/kpn011/canopy) | Go implementation of the Canopy Network protocol — infra & node running |
 | [`clipkpn`](https://github.com/kpn011/clipkpn) | CLI tooling |
 | [`suiseal`](https://github.com/kpn011/suiseal) | Eksperimen di ekosistem Sui |
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kpn011&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="165" src="https://streak-stats.demolab.com?user=kpn011&theme=tokyonight&hide_border=true&background=0d1117" />
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpn011&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 ![snake](https://raw.githubusercontent.com/kpn011/kpn011/output/github-snake.svg)
 
@@ -49,5 +51,7 @@ kpn@mainnet:~$ _
 kpn@mainnet:~$ echo $MOTTO
 ship first, document later
 ```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 </div>
